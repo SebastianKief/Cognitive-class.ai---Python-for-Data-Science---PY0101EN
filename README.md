@@ -7,7 +7,7 @@
 - Numpy
 - Matplotlib
 
-##Topics covered
+## Topics covered
 - What is Python and why is it useful
 - The application of Python 
 - How to define variables
